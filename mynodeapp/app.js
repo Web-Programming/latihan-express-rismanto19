@@ -1,7 +1,7 @@
 // app.js
 // const http = require('http');
 const express = require('express');
-const app = express():
+const app = express();
 const port = 3000;
 // route get
 // app.get('/', (req, res) => {
